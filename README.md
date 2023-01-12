@@ -6,7 +6,7 @@ Full Stack Web Developer, Java Developer.
 About Me:
 ----
 
-<img align="right" width="35%" src="https://i.ibb.co/RPyk60b/coding-image.png">
+<img align="right" width="32%" src="https://i.ibb.co/RPyk60b/coding-image.png">
 
 - :computer: I'm currently developing my knowledge in Java and Spring.
 - 👀 I’m interested in Videogames, Tv Series, Anime/Manga and Books.
@@ -21,7 +21,7 @@ About Me:
 Languages and Tools
 ------
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,js,vue,mysql,php,laravel,java,spring)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,js,vue,mysql,php,laravel,java,spring,tailwind)](https://skills.thijs.gg)
 
 ###### Learning: Angular, improving Java
 
