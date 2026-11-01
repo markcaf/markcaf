@@ -41,6 +41,7 @@ Check out my little front-end projects
 <a href="https://markcaf.github.io/htmlcss-discord/"><img src="https://skillicons.dev/icons?i=discord" title="Discord" alt="Discord" width="40" height="40"/></a>
 <a href="https://markcaf.github.io/html-css-boolando/"><img src="https://skillicons.dev/icons?i=js" title="Zalando" alt="Zalando" width="40" height="40"/></a>
 <a href="https://markcaf.github.io/html-css-zoom/"><img src="https://skillicons.dev/icons?i=vim" title="Zoom" alt="Zoom" width="40" height="40"/></a>
+<a href="https://markcaf.github.io/shared-cost-budget/"><img src="https://img.shields.io/badge/Budget-E34F26?style=for-the-badge&logo=cashapp&logoColor=white" title="Shared Cost Budget" alt="Shared Cost Budget" width="40" height="40"/></a>
 </div>
 
 My Stats & Activity
